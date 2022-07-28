@@ -1,4 +1,4 @@
-# Heart-rate-prediction-
+# Heart-failure-prediction
 Heart failure is a common event caused by Cardiovascular diseases (CVDs) and this
 dataset contains 11 features that can be used to predict a possible heart disease. People
 with cardiovascular disease or who are at high cardiovascular risk (due to the presence of
